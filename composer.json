@@ -1,5 +1,5 @@
 {
-    "name": "dev4traders/mt4-sdk-php",
+    "name": "ibf/mt4-sdk-php",
     "description": "SDK for using the Metatrader4 API in PHP",
     "keywords": [
         "dev4traders",
